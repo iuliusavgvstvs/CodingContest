@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+C:\Users\Iuliu\OneDrive\Desktop\CCC2019\CCC2019\Source1.cpp(53,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CCC2019.vcxproj -> C:\Users\Iuliu\OneDrive\Desktop\CCC2019\Debug\CCC2019.exe
